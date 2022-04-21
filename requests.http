@@ -1,0 +1,13 @@
+POST http://localhost:3000/api/webhooks/purchase
+Content-Type: application/json
+Secret-Token: ______
+
+{
+  "customerAddr": "0x91EBf8f65905AE435301F72b61037C558EBe4972",
+  "tokenId": "0",
+  "amount": "1",
+  "txHash": "XXXXXXX"
+}
+
+###
+
