@@ -34,7 +34,7 @@ class Navbar extends Component {
                               target="_rel">Litepaper<i className="fa fa-paper-plane" /></a>
                         </li>
                         <li>
-                           <a className="btn btn-yellow" href="https://forms.gle/tL7AXVYp1tQxGj246" target="_rel">Join Telegram<i className="fa fa-paper-plane" /></a>
+                           <a className="btn btn-yellow" href="https://t.me/sicfoundation" target="_rel">Join Telegram<i className="fa fa-paper-plane" /></a>
                         </li>
                      </ul>
                   </div>
