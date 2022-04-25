@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Countdown from "react-countdown";
+
 class Banner extends Component {
 
    render() {
@@ -17,8 +17,7 @@ class Banner extends Component {
                            <div className="col-lg-9 col-sm-8">
                               <div className="banner-inner">
                                  <img src="/assets/img/HERO-IMAGE-NEW.png"  alt="SIC-FUND Island"/>
-                                 <h3>Sale ends<br></br>25th April, 3pm (AEST)</h3>
-                                 <h3><Countdown date={new Date(1650862800000)}/></h3>
+                                 <h3>Sale ends<br></br>25th April, 3pm<br></br>(AEST)</h3>
                               </div>
                            </div>
                            <div className="col-lg-3 col-sm-4">
