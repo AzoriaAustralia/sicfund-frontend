@@ -8,7 +8,7 @@ const purchaseNft = async (amount) => {
       await provider.send("eth_requestAccounts", []);
       const signer = await provider.getSigner();
       const signerAddr = await signer.getAddress()
-      const purchaseContract = new ethers.Contract(process.env.NEXT_PUBLIC_PURCHASE_CONTRACT_ADDRESS, contractAbi, signer);
+      const purchaseContract = new ethers.Contract("0x127e84aF46dbf2A710E0bb8938e1F1922f831b50", contractAbi, signer);
 
       const price = await purchaseContract.tokenPrices(1);
       const data = await purchaseContract.purchase(signerAddr, amount, 1, {
