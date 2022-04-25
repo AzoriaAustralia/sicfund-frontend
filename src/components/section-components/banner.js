@@ -17,7 +17,7 @@ class Banner extends Component {
                            <div className="col-lg-9 col-sm-8">
                               <div className="banner-inner">
                                  <img src="/assets/img/HERO-IMAGE-NEW.png"  alt="SIC-FUND Island"/>
-                                 <h3>Sale ends<br></br>25th April, 3pm<br></br>(AEST)</h3>
+                                 <h3>Sale starts on<br></br>23rd April, 10am<br></br>(Australia Eastern Standard Time)</h3>
                               </div>
                            </div>
                            <div className="col-lg-3 col-sm-4">
