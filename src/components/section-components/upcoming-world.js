@@ -6,7 +6,7 @@ class UpcomingWorld extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
 
     return   <div className="upcomming-world pd-top-108 viaje-go-top">
 			  <div className="container">

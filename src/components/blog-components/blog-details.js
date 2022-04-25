@@ -4,7 +4,7 @@ import Comments from './comments';
 import Sidebar from './sidebar';
 class BlogDetails extends Component {
   render() {
-    let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+    let publicUrl = "https://sicfund.io"
     let imagealt = 'image'
 
     return (

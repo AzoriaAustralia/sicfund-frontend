@@ -6,7 +6,7 @@ class Page_header extends Component {
     render() {
 
         let HeaderTitle = this.props.headertitle;
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
         let Subheader = this.props.subheader ? this.props.subheader : HeaderTitle
 
         return (

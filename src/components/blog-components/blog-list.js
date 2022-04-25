@@ -4,7 +4,7 @@ import Sidebar from './sidebar';
 
 class BlogList extends Component {
   render() {
-    let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+    let publicUrl = "https://sicfund.io"
     let imagealt = 'image'
     return (
       <div className="blog-area pd-top-120 viaje-go-top">

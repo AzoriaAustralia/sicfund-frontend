@@ -6,7 +6,7 @@ class VideoBanner extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
 
     return  <div className="video-banner-area youtube-bg">
 			  <div className="video-banner-content-wrap">

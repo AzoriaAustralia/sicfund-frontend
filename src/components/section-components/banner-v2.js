@@ -4,7 +4,7 @@ class BannerV2 extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
 		 let imagealt = "image";
 
     return  <div className="main-banner-area jarallax" style={{backgroundImage: 'url('+publicUrl+'assets/img/banner/4.png)'}}>

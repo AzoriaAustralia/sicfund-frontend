@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Footer_v1 extends Component {
 
     componentDidMount() {
-        // let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        // let publicUrl = "https://sicfund.io"
         // const minscript = document.createElement("script");
         // minscript.async = true;
         // minscript.src = publicUrl + "assets/js/main.js";

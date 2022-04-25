@@ -6,7 +6,7 @@ class UpcomingTour extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
 
     return  <div className="upcomming-tour upcomming-tour-bg pd-top-75 pd-bottom-120 viaje-go-top" style={{backgroundImage: 'url('+publicUrl+'assets/img/bg/11.png)'}}>
 		  <div className="container">

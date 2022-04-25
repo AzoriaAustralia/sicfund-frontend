@@ -6,7 +6,7 @@ class TourListV3 extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
         let imagealt = 'image'
 
     return	<div className="tour-list-area pd-top-120 viaje-go-top">

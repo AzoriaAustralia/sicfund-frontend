@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 class BlogSection extends Component {
   render() {
-    let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+    let publicUrl = "https://sicfund.io"
 
     return (
       <div className="blog-area pd-top-120 viaje-go-top">

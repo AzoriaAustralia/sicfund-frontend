@@ -4,7 +4,7 @@ class Instagram extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
 
     return  <div className="instagram-area pd-top-100">
 			  <div className="section-title text-center">

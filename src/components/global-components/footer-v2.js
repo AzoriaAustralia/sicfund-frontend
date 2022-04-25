@@ -4,7 +4,7 @@ import Link from 'next/link';
 class Footer_v2 extends Component {
 
     componentDidMount() {
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
         const minscript = document.createElement("script");
         minscript.async = true;
         minscript.src = publicUrl + "assets/js/main.js";
@@ -14,7 +14,7 @@ class Footer_v2 extends Component {
 
     render() {
 
-        let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+        let publicUrl = "https://sicfund.io"
         let imgattr = "Footer logo"
 
         return (

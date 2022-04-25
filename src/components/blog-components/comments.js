@@ -6,7 +6,7 @@ class Comments extends Component {
   render() {
    let anchor = '#'
    let imagealt = 'image'
-   let publicUrl = process.env.NEXT_PUBLIC_URL+'/'
+   let publicUrl = "https://sicfund.io"
     return (
       <div className="comment-area">
 	          <h2 className="comment-title">Client’s Comments</h2>
