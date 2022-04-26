@@ -1,68 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Azoria Logo](https://azoria.com.au/assets/logos/Logo-small-transparent.png)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+**Azoria** provide's custom software and development solutions to cryptocurrency projects and alike. Including but not limited to:
+- Frontend Web Design
+- Custom Bot Setup's
+- Web & Email Hosting.
+- Technical Advice.
+- Hosting Setup.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+*Flick us an [email](mailto://info@azoria.au) today for more info or with any questions you may have!*
+___
+This particular deployment was built by [Fullstak.pl](https://github.com/fullstakpl) and is being maintained and edited by Azoria.
+___
+[SicFund.io](https://sicfund.io)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+*Satoshi Island* (Locally known as Lataro) is a 30-Million Square foot private Island located in Northern-Vanuatu in the special economic zone of Santo.
 
-### `npm test`
+Permission has been granted by the Treasury and Government of Vanuatu to turn this island into a haven for crypto entrepreneurs. This will represent the evolution of tokenisation & the first project in the world where a whole island society has been tokenised!
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Everything from the Land, Citizenship to the island and Modules (Used for Building) will be represented as NFTs. The entire island has been scanned and is being built out into a 1:1 scale into a digital world. This will allow NFT investors to Explore, purchase, develop, lease or sell their island developments without ever stepping foot on the island. Satoshi Island is Almost like an Island Building game, but the game is backed by the real world developments where your digital actions come to life.
 
-### `npm run build`
+Ownership of the physical land will be a contract between the NFT holder and SatoshiIsland-LTD, However the land title can be transferred into the name of the NFT holder through an application process with Satoshi Island and the Vanuatu Land registration Bureau. The land title holder will then become liable for paying associated property fees.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Together we will buy and develop as many Land plots as we can.
