@@ -187,7 +187,7 @@ export default function Offer() {
                      </div>
                   </div>
                </div>
-               <div className="row">
+               {/* <div className="row">
                   <div className="buy-any-amount single-destinations-list">
                      <h4 style={{ color: "white" }}>Buy any amount you want</h4>
                      <div className="tp-price-meta tp-price-meta-cl">
@@ -199,10 +199,10 @@ export default function Offer() {
                         <button onClick={() => handleNftPurchase(tokenAmountToBuy)} className="action-btn light">mint</button>
                      </div>
                   </div>
-               </div>
+               </div> */}
             </div>
          </div>
-         {raisedETH && (
+         {/* {raisedETH && (
             <div className="container" style={{marginTop: "16px"}}>
                <div className="row justify-content-center">
                   <div className="col-xl-6 col-lg-8">
@@ -212,7 +212,7 @@ export default function Offer() {
                   </div>
                </div>
             </div>
-         )}
+         )} */}
       </div>
    )
 

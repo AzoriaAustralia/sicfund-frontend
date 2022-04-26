@@ -3500,7 +3500,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
       font-weight: 700; }
     .single-intro .intro-title .intro-cat {
       position: absolute;
-      background: #ffffff;
+      background: transparent;
       padding: 0 8px;
       margin-left: -12px;
       margin-top: 4px; }

@@ -18,8 +18,7 @@ class Banner extends Component {
                            <div className="col-lg-9 col-sm-8">
                               <div className="banner-inner">
                                  <img src="/assets/img/HERO-IMAGE-NEW.png"  alt="SIC-FUND Island"/>
-                                 <h3>Sale ends<br></br>26th April, 3pm<br></br>(AEST)</h3>
-                                 <h4>Sale Extended! Ends in <Countdown date={1650949200000}/></h4>
+                                 <h3>Sale has ended<br></br>Stay tuned for updates!</h3>
                               </div>
                            </div>
                            <div className="col-lg-3 col-sm-4">
