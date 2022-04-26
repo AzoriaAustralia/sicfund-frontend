@@ -14,11 +14,11 @@ class Intro extends Component {
                   <div className="single-intro wow animated fadeInUp" data-wow-duration="0.6s" data-wow-delay="0.1s">
                      <h4 className="intro-title">
                         <span className="intro-count">01</span>
-                        <Link href="/about">
+                        {/* <Link href="/about"> */}
                            <a className="intro-cat">
                               Invest
                            </a>
-                        </Link>
+                        {/* </Link> */}
                      </h4>
                      <p>A Glowing light in the Pacific for Crypto Entrepreneurs, the free trade zone and crypto friendly
                         jurisdiction of Santo, located in the tax Haven of Vanuatu, is set to soar and become a hub for
@@ -30,11 +30,11 @@ class Intro extends Component {
                   <div className="single-intro wow animated fadeInUp" data-wow-duration="1.0s" data-wow-delay="0.2s">
                      <h4 className="intro-title">
                         <span className="intro-count">02</span>
-                        <Link href="/about">
+                        {/* <Link href="/about"> */}
                            <a className="intro-cat">
                               Develop
                            </a>
-                        </Link>
+                        {/* </Link> */}
                      </h4>
                      <p>Have your voice, vote and ideas heard on how the development of our satoshi island land should
                         be carried out. Shares in the SIC-Fund will be represented by ERC1155 Tokens. Choose how you
@@ -46,11 +46,11 @@ class Intro extends Component {
                   <div className="single-intro wow animated fadeInUp" data-wow-duration="1.6s" data-wow-delay="0.3s">
                      <h4 className="intro-title">
                         <span className="intro-count">03</span>
-                        <Link href="/about">
+                        {/* <Link href="/about"> */}
                            <a className="intro-cat">
                               Lease
                            </a>
-                        </Link>
+                        {/* </Link> */}
                      </h4>
                      <p>90% of ALL profits the CoOperatives assets generate will be shared with the NFT holders, this
                         includes income from the leasing of developed properties, royalties from market sales, sales of
