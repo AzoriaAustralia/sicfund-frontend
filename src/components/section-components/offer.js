@@ -72,7 +72,8 @@ export default function Offer() {
                                  <p>Price</p>
                                  <h2>0.3 ETH</h2>
                                  <div className="btn-wrapper">
-                                    <button onClick={() => handleNftPurchase(2)} className="action-btn">buy now</button>
+                                    {/* <button onClick={() => handleNftPurchase(2)} className="action-btn">buy now</button> */}
+                                    <button className="action-btn">Sale Ended</button>
                                  </div>
                               </div>
                            </div>
@@ -106,7 +107,8 @@ export default function Offer() {
                                  <p>Price</p>
                                  <h2>0.75 ETH</h2>
                                  <div className="btn-wrapper">
-                                    <button onClick={() => handleNftPurchase(5)} className="action-btn">buy now</button>
+                                    {/* <button onClick={() => handleNftPurchase(5)} className="action-btn">buy now</button> */}
+                                    <button className="action-btn">Sale Ended</button>
                                  </div>
                               </div>
                            </div>
@@ -142,7 +144,8 @@ export default function Offer() {
                                  <p>Price</p>
                                  <h2>2.25 ETH </h2>
                                  <div className="btn-wrapper">
-                                    <button onClick={() => handleNftPurchase(15)} className="action-btn">buy now</button>
+                                    {/* <button onClick={() => handleNftPurchase(15)} className="action-btn">buy now</button> */}
+                                    <button className="action-btn">Sale Ended</button>
                                  </div>
                               </div>
                            </div>
@@ -179,7 +182,8 @@ export default function Offer() {
                                  <p style={{ color: "white" }}>Price</p>
                                  <h2 style={{ color: "white" }}>4.5 ETH </h2>
                                  <div className="btn-wrapper">
-                                    <button onClick={() => handleNftPurchase(30)} className="action-btn light">buy now</button>
+                                    {/* <button onClick={() => handleNftPurchase(30)} className="action-btn light">buy now</button> */}
+                                    <button className="action-btn">Sale Ended</button>
                                  </div>
                               </div>
                            </div>
